@@ -17,3 +17,5 @@ Formato Excel (xlsx) https://docs.google.com/spreadsheets/d/1ywvMLoU1R2_fqXB4B8a
 Contato: buscaemad@prefeitura.sp.gov.br
 
 Link para acessar a ferramenta: https://www.google.com/maps/d/u/1/viewer?mid=1xF-LSfPlRbPPmQClcydAYRFH0Z4&ll=-23.63036108744207%2C-46.524811913018645&z=11
+
+![image](https://github.com/gisa-ceinfo-sms-sp/Programa-Melhor-em-Casa-EMAD-Municipio-Sao-Paulo/assets/75272641/ededbe42-da2b-4848-ad07-d462d5dfa11a)
